@@ -1,7 +1,7 @@
 <?php
-$dsn = 'mysql:dbname=php_db_app;host=localhost;charset=utf8mb4';
-$user = 'root';
-$password = '';
+$dsn = 'mysql:heroku_a363adc302f4535;host=us-cdbr-east-06.cleardb.net;charset=utf8mb4';
+$user = 'b3297b92456728';
+$password = 'ee5fcde4';
 
 if (isset($_POST['submit'])) {
   try {
