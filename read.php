@@ -1,5 +1,5 @@
 <?php
-$dsn = 'mysql:heroku_a363adc302f4535;host=us-cdbr-east-06.cleardb.net;charset=utf8mb4';
+$dsn = 'mysql:dbname=heroku_a363adc302f4535;host=us-cdbr-east-06.cleardb.net;charset=utf8mb4';
 $user = 'b3297b92456728';
 $password = 'ee5fcde4';
 
